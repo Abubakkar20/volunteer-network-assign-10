@@ -1,0 +1,15 @@
+.register-frm{
+    height: 430px;
+    margin-left: 30%;
+    margin-top: 5%;
+    width:420px;
+    border: 1px solid gray;
+    padding: 15px;
+}
+h2{
+    text-align: center;
+}
+input[type=text], [type=date], [type=email],textarea {
+    border: none;
+    border-bottom:1px solid gray;
+}
